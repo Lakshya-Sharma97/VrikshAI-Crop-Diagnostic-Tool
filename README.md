@@ -11,7 +11,7 @@ The core of VrikshAI is trained on a massive, diverse dataset to ensure high cla
 
     Storage & Accessibility: Due to size constraints (approx. 9GB), the full image dataset is hosted externally.
 
-        Access the Dataset: [https://www.kaggle.com/datasets/lakshyasharma97/vrikshai-crop-disease-and-anomaly-detection-dataset]
+        Access the Dataset: https://www.kaggle.com/datasets/lakshyasharma97/vrikshai-crop-disease-and-anomaly-detection-dataset
 
 💻 Hardware Optimization
 
