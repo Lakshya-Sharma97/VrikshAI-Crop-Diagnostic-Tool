@@ -1,0 +1,432 @@
+{
+    "Apple___Apple_scab": {
+        "symptoms": "Olive-green to brown velvety spots on leaves and fruit; leaves may curl and drop early.",
+        "remedy": "Apply fungicides like Captan or Mancozeb at bud break. Remove and destroy fallen leaves. Use resistant varieties.",
+        "conditions": "Favored by cool (15-24\u00b0C) and wet spring conditions with frequent rain or heavy dew."
+    },
+    "Apple___Black_rot": {
+        "symptoms": "Circular brown lesions on fruit with purple borders; frogeye leaf spots; cankers on branches.",
+        "remedy": "Prune infected branches. Apply copper-based fungicides. Remove mummified fruits from tree and ground.",
+        "conditions": "Develops in warm (21-30\u00b0C) and humid weather; wounds from hail or insects increase risk."
+    },
+    "Apple___Cedar_apple_rust": {
+        "symptoms": "Bright orange-yellow spots on upper leaf surface; tube-like structures on undersides.",
+        "remedy": "Remove nearby juniper/cedar hosts. Apply myclobutanil or sulfur-based fungicides early in season.",
+        "conditions": "Requires alternating hosts; spores spread during wet spring weather (16-24\u00b0C)."
+    },
+    "Apple___healthy": {
+        "symptoms": "Leaves are firm, glossy green with no spots, lesions, or discoloration.",
+        "remedy": "Maintain regular pruning and balanced fertilization. No chemical intervention needed.",
+        "conditions": "N/A - Plant is thriving in current conditions."
+    },
+    "banana_leaf_cordana": {
+        "symptoms": "Oval brown spots with yellow halos on leaves; lesions may merge causing leaf death.",
+        "remedy": "Remove infected leaves. Apply propiconazole or mancozeb fungicides. Improve field drainage.",
+        "conditions": "Thrives in warm humid conditions (24-30\u00b0C) with high rainfall and poor air circulation."
+    },
+    "banana_leaf_healthy": {
+        "symptoms": "Leaves are broad, bright green, and free of spots or streaks.",
+        "remedy": "Continue regular watering and potassium-rich fertilization. No intervention needed.",
+        "conditions": "N/A - Plant is thriving in current conditions."
+    },
+    "banana_leaf_pestalotiopsis": {
+        "symptoms": "Dark brown irregular spots with light centers and yellow margins on leaf edges.",
+        "remedy": "Remove and burn affected leaves. Apply copper oxychloride fungicide. Avoid overhead irrigation.",
+        "conditions": "Occurs in warm (22-30\u00b0C) humid climates; stressed or damaged plants are more susceptible."
+    },
+    "banana_leaf_sigatoka": {
+        "symptoms": "Yellow streaks that develop into brown necrotic spots with yellow halos on leaves.",
+        "remedy": "Apply systemic fungicides like propiconazole. Remove infected leaves. Ensure good air circulation.",
+        "conditions": "Favored by warm (25-28\u00b0C) weather with prolonged leaf wetness and high humidity (>80%)."
+    },
+    "banana_plant_Cordana": {
+        "symptoms": "Oval brown lesions with concentric rings on leaves; severe infections cause premature leaf death.",
+        "remedy": "Remove infected plant debris. Apply mancozeb or chlorothalonil. Ensure proper spacing between plants.",
+        "conditions": "Develops under warm humid conditions (24-30\u00b0C) with frequent rainfall and dense planting."
+    },
+    "banana_plant_Healthy": {
+        "symptoms": "Plant is vigorous with upright green pseudostem, large green leaves, and no visible lesions.",
+        "remedy": "Maintain proper irrigation, mulching, and balanced NPK fertilization. No treatment needed.",
+        "conditions": "N/A - Plant is thriving in current conditions."
+    },
+    "banana_plant_Panama Disease": {
+        "symptoms": "Yellowing of older leaves starting from margins; wilting and splitting of pseudostem; brown vascular tissue.",
+        "remedy": "Remove and destroy infected plants. Avoid replanting susceptible varieties. Use Fusarium-resistant cultivars like Cavendish GCTCV-219.",
+        "conditions": "Soil-borne pathogen thriving in warm (24-32\u00b0C) soils; spreads through waterlogged and poorly drained fields."
+    },
+    "banana_plant_Yellow and Black Sigatoka": {
+        "symptoms": "Yellow streaks and black necrotic lesions on leaves; premature leaf senescence reducing fruit yield.",
+        "remedy": "Apply triazole or strobilurin fungicides on a rotating schedule. Remove infected leaves promptly. Use tolerant varieties.",
+        "conditions": "Thrives in warm (25-30\u00b0C) humid climates; worsened by prolonged wet seasons and dense canopy."
+    },
+    "Blueberry___healthy": {
+        "symptoms": "Leaves are dark green, firm, and free from spots or abnormal coloring.",
+        "remedy": "Maintain acidic soil pH (4.5-5.5). Continue regular mulching and pruning. No treatment needed.",
+        "conditions": "N/A - Plant is thriving in current conditions."
+    },
+    "Cherry_(including_sour)___healthy": {
+        "symptoms": "Leaves are glossy green with no spots, curling, or discoloration.",
+        "remedy": "Maintain adequate irrigation and balanced fertilization. Prune for airflow. No intervention needed.",
+        "conditions": "N/A - Plant is thriving in current conditions."
+    },
+    "Cherry_(including_sour)___Powdery_mildew": {
+        "symptoms": "White powdery coating on young leaves, shoots, and fruit; leaves may curl and distort.",
+        "remedy": "Apply sulfur-based or potassium bicarbonate fungicides. Improve air circulation by pruning. Avoid excess nitrogen.",
+        "conditions": "Favored by warm dry days (20-28\u00b0C) with cool nights and high humidity; does not require leaf wetness."
+    },
+    "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+        "symptoms": "Rectangular gray to tan lesions restricted by leaf veins; lesions run parallel to midrib.",
+        "remedy": "Apply strobilurin fungicides. Rotate with non-host crops. Till residue to reduce inoculum.",
+        "conditions": "Thrives in warm (25-30\u00b0C) and humid conditions with extended periods of leaf wetness."
+    },
+    "Corn_(maize)___Common_rust_": {
+        "symptoms": "Small, circular to elongated cinnamon-brown pustules scattered on both leaf surfaces.",
+        "remedy": "Apply fungicides like Propiconazole at early rust detection. Plant resistant hybrids. Monitor fields regularly.",
+        "conditions": "Spreads rapidly in cool to moderate (16-23\u00b0C) temperatures with high humidity and heavy dew."
+    },
+    "Corn_(maize)___healthy": {
+        "symptoms": "Leaves are broad, bright green, and free of lesions, pustules, or discoloration.",
+        "remedy": "Continue balanced fertilization and irrigation. Ensure adequate spacing. No treatment needed.",
+        "conditions": "N/A - Plant is thriving in current conditions."
+    },
+    "Corn_(maize)___Northern_Leaf_Blight": {
+        "symptoms": "Cigar-shaped grayish-green to tan lesions on leaves, starting on lower leaves.",
+        "remedy": "Apply fungicides like Mancozeb. Rotate with non-grass crops. Manage crop residue post-harvest.",
+        "conditions": "Favored by moderate temperatures (18-27\u00b0C) with high humidity and frequent rainfall."
+    },
+    "Cotton - Diseased Leaf": {
+        "symptoms": "Irregular brown or yellow spots on leaves; possible wilting, curling, or early leaf drop.",
+        "remedy": "Identify specific pathogen before treatment. Apply copper-based or systemic fungicides. Remove infected leaves promptly.",
+        "conditions": "Most infections worsen under warm (25-35\u00b0C) and humid conditions with poor field drainage."
+    },
+    "Cotton - Diseased Plant": {
+        "symptoms": "Stunted growth, yellowing, wilting, or vascular discoloration throughout the plant.",
+        "remedy": "Remove and destroy severely infected plants. Apply appropriate fungicide or bactericide. Improve drainage and avoid waterlogging.",
+        "conditions": "Soil-borne pathogens thrive in warm waterlogged soils (25-35\u00b0C); stress conditions accelerate spread."
+    },
+    "Cotton - Healthy Leaf": {
+        "symptoms": "Leaves are broad, deep green, and free from spots, holes, or discoloration.",
+        "remedy": "Maintain regular irrigation and balanced NPK fertilization. No chemical treatment needed.",
+        "conditions": "N/A - Plant is thriving in current conditions."
+    },
+    "Cotton - Healthy Plant": {
+        "symptoms": "Plant is erect with vibrant green foliage, no signs of wilting or lesions.",
+        "remedy": "Continue integrated pest management practices. Monitor regularly. No intervention required.",
+        "conditions": "N/A - Plant is thriving in current conditions."
+    },
+    "Grape___Black_rot": {
+        "symptoms": "Circular tan lesions with dark borders on leaves; fruit shrivels into hard black mummies.",
+        "remedy": "Apply mancozeb or myclobutanil fungicides before bloom. Remove mummified fruit. Prune for air circulation.",
+        "conditions": "Thrives in warm (21-29\u00b0C) and wet conditions; most critical infection period is during bloom and early fruit set."
+    },
+    "Grape___Esca_(Black_Measles)": {
+        "symptoms": "Tiger-stripe patterns on leaves; dark spots on berries; internal wood shows brown streaking.",
+        "remedy": "Prune during dry weather and seal wounds. Remove severely infected vines. No curative chemical treatment currently available.",
+        "conditions": "Associated with hot dry summers (>30\u00b0C) following wet winters; stress-induced vascular wood disease."
+    },
+    "Grape___healthy": {
+        "symptoms": "Leaves are vibrant green with well-defined veins and no lesions or discoloration.",
+        "remedy": "Continue regular canopy management and balanced fertilization. Monitor for early disease signs.",
+        "conditions": "N/A - Plant is thriving in current conditions."
+    },
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+        "symptoms": "Dark brown irregular spots on older leaves; premature defoliation in severe cases.",
+        "remedy": "Apply copper-based fungicides. Remove infected leaves. Avoid excessive canopy density.",
+        "conditions": "Favored by warm (25-30\u00b0C) humid weather; spreads rapidly during rainy seasons."
+    },
+    "Mango - Anthracnose": {
+        "symptoms": "Dark brown to black spots on leaves, flowers, and fruits; fruits develop sunken lesions post-harvest.",
+        "remedy": "Apply copper oxychloride or mancozeb before flowering. Harvest at correct maturity. Hot-water treat fruits post-harvest.",
+        "conditions": "Thrives in warm (25-30\u00b0C) and humid conditions with heavy rainfall during flowering season."
+    },
+    "Mango - Bacterial Canker": {
+        "symptoms": "Water-soaked lesions on leaves, stems, and fruit that turn brown with yellow halos.",
+        "remedy": "Prune infected parts. Apply copper-based bactericides. Avoid wounding plants during wet weather.",
+        "conditions": "Spreads rapidly in warm (25-35\u00b0C) wet weather; wind-driven rain promotes bacterial entry through wounds."
+    },
+    "Mango - Cutting Weevil": {
+        "symptoms": "Crescent-shaped cuts on leaf petioles causing wilting and dropping of young shoots.",
+        "remedy": "Collect and destroy fallen shoots. Apply chlorpyrifos or carbaryl sprays. Use sticky traps around trunks.",
+        "conditions": "Activity peaks during warm (25-35\u00b0C) humid months; coincides with new flush growth periods."
+    },
+    "Mango - Die Back": {
+        "symptoms": "Drying and browning of twigs starting from tips; bark shows dark discoloration.",
+        "remedy": "Prune infected twigs well below visible infection. Apply copper fungicide to cut ends. Avoid water stress.",
+        "conditions": "Triggered by drought stress followed by humid conditions (25-35\u00b0C); wounds and pruning cuts serve as entry points."
+    },
+    "Mango - Gall Midge": {
+        "symptoms": "Small galls or swellings on leaves, flowers, or shoots caused by midge larvae.",
+        "remedy": "Apply systemic insecticides like imidacloprid at bud break. Remove and destroy galled tissue. Use light traps.",
+        "conditions": "Infestation peaks during new flush emergence in warm humid conditions (25-32\u00b0C)."
+    },
+    "Mango - Healthy": {
+        "symptoms": "Leaves are waxy, deep green, and free of galls or spots.",
+        "remedy": "Continue organic manuring and regular pruning.",
+        "conditions": "N/A - Plant is thriving in current conditions."
+    },
+    "Mango - Powdery Mildew": {
+        "symptoms": "White powdery coating on young leaves, panicles, and fruit; affected parts may drop prematurely.",
+        "remedy": "Apply sulfur dust or wettable sulfur. Use systemic fungicides like hexaconazole. Spray at early flowering stage.",
+        "conditions": "Favored by cool nights (10-15\u00b0C) and warm dry days (25-30\u00b0C) during flowering season."
+    },
+    "Mango - Sooty Mould": {
+        "symptoms": "Black sooty coating on leaf surfaces caused by fungal growth on insect honeydew.",
+        "remedy": "Control sap-sucking insects like mealybugs and aphids with insecticides. Wash leaves with mild soap solution.",
+        "conditions": "Secondary infection following pest infestations; worsens in warm (25-35\u00b0C) humid and shaded conditions."
+    },
+    "Orange___Haunglongbing_(Citrus_greening)": {
+        "symptoms": "Asymmetric yellowing of leaves (blotchy mottle); small, lopsided, bitter fruits; twig dieback.",
+        "remedy": "Remove and destroy infected trees. Control Asian citrus psyllid vector with insecticides. Use certified disease-free nursery stock.",
+        "conditions": "Spread by Asian citrus psyllid thriving in warm (25-35\u00b0C) conditions; no temperature-based disease suppression known."
+    },
+    "Peach___Bacterial_spot": {
+        "symptoms": "Small water-soaked spots on leaves turning brown with yellow halos; fruit shows pitting and cracking.",
+        "remedy": "Apply copper-based bactericides from bud swell. Avoid overhead irrigation. Plant resistant varieties.",
+        "conditions": "Thrives in warm (24-30\u00b0C) wet weather; wind and rain spread bacteria; sandy soils increase susceptibility."
+    },
+    "Peach___healthy": {
+        "symptoms": "Leaves are bright green, smooth, and free from spots or lesions.",
+        "remedy": "Maintain proper thinning and pruning. Continue balanced fertilization. No treatment needed.",
+        "conditions": "N/A - Plant is thriving in current conditions."
+    },
+    "Pepper,_bell___Bacterial_spot": {
+        "symptoms": "Water-soaked lesions on leaves and fruit that turn dark brown; raised scab-like spots on fruit.",
+        "remedy": "Apply copper hydroxide sprays. Use disease-free seed. Avoid working in fields when plants are wet.",
+        "conditions": "Spreads rapidly in warm (24-30\u00b0C) rainy conditions; overhead irrigation and wind accelerate bacterial spread."
+    },
+    "Pepper,_bell___healthy": {
+        "symptoms": "Leaves are deep green, firm, and free of spots or wilting.",
+        "remedy": "Maintain consistent watering and calcium-rich fertilization. No chemical intervention needed.",
+        "conditions": "N/A - Plant is thriving in current conditions."
+    },
+    "Potato___Early_blight": {
+        "symptoms": "Dark brown concentric ring lesions (target-like) on older leaves; yellow tissue surrounding lesions.",
+        "remedy": "Apply chlorothalonil or mancozeb. Remove infected lower leaves. Ensure adequate potassium nutrition.",
+        "conditions": "Favored by warm (24-29\u00b0C) and alternating wet-dry conditions; older and stressed plants are most susceptible."
+    },
+    "Potato___healthy": {
+        "symptoms": "Leaves are lush green with no lesions, spots, or wilting.",
+        "remedy": "Maintain hilling, irrigation, and balanced fertilization. Monitor regularly. No treatment needed.",
+        "conditions": "N/A - Plant is thriving in current conditions."
+    },
+    "Potato___Late_blight": {
+        "symptoms": "Pale green water-soaked lesions on leaves turning dark brown; white mold on undersides in humid conditions.",
+        "remedy": "Apply metalaxyl or cymoxanil fungicides. Destroy infected haulms before harvest. Avoid overhead irrigation.",
+        "conditions": "Thrives in cool (10-20\u00b0C) and very humid (>90%) conditions; spreads explosively during prolonged wet weather."
+    },
+    "Raspberry___healthy": {
+        "symptoms": "Canes are firm and green; leaves are bright with no spots or wilting.",
+        "remedy": "Prune old canes after harvest. Maintain proper row spacing for airflow. No treatment needed.",
+        "conditions": "N/A - Plant is thriving in current conditions."
+    },
+    "Rice - Bacterial Leaf Blight": {
+        "symptoms": "Water-soaked streaks that turn yellow/white starting from leaf tips.",
+        "remedy": "Avoid excess nitrogen. Use copper-based fungicides. Drain field if possible.",
+        "conditions": "Thrives in warm (25-34\u00b0C) and highly humid (>70%) weather."
+    },
+    "Rice - Brown Spot": {
+        "symptoms": "Circular to oval brown spots with gray centers and dark brown borders on leaves.",
+        "remedy": "Apply mancozeb or iprodione. Use balanced fertilization especially potassium. Treat seeds with fungicide before sowing.",
+        "conditions": "Associated with nutrient-deficient soils; worsened by warm (25-30\u00b0C) humid conditions and drought stress."
+    },
+    "Rice - Healthy Leaf": {
+        "symptoms": "Leaves are erect, bright green, and free of spots or discoloration.",
+        "remedy": "Maintain proper water management and balanced NPK fertilization. No intervention needed.",
+        "conditions": "N/A - Plant is thriving in current conditions."
+    },
+    "Rice - Hispa": {
+        "symptoms": "White parallel streaks on leaves caused by larvae mining; adult beetles scrape leaf surfaces.",
+        "remedy": "Apply chlorpyrifos or malathion. Remove egg masses manually. Clip and destroy affected leaf tips.",
+        "conditions": "Pest population peaks in warm (25-35\u00b0C) humid conditions during early vegetative stage of rice."
+    },
+    "Rice - Leaf Blast": {
+        "symptoms": "Diamond-shaped lesions with gray centers and brown borders on leaves.",
+        "remedy": "Apply tricyclazole or isoprothiolane fungicides. Use blast-resistant varieties. Avoid excess nitrogen.",
+        "conditions": "Favored by cool to warm (20-28\u00b0C) temperatures with high humidity and heavy dew at night."
+    },
+    "Rice - Leaf Scald": {
+        "symptoms": "Scalded appearance on leaf tips and margins with alternating light tan and dark brown bands.",
+        "remedy": "Apply propiconazole fungicide. Use clean certified seed. Avoid excess nitrogen fertilization.",
+        "conditions": "Develops under warm (28-35\u00b0C) humid conditions; worsened by high nitrogen and dense planting."
+    },
+    "Rice - Narrow Brown Leaf Spot": {
+        "symptoms": "Narrow brown linear streaks on leaf blades, mostly parallel to midrib.",
+        "remedy": "Apply mancozeb or carbendazim. Improve soil nutrition especially silicon and potassium. Use disease-free seed.",
+        "conditions": "Favored by warm (25-32\u00b0C) humid conditions; more severe in silicon and potassium deficient soils."
+    },
+    "Rice - Sheath Blight": {
+        "symptoms": "Oval to irregular greenish-gray lesions on leaf sheaths near waterline; lesions have dark borders.",
+        "remedy": "Apply hexaconazole or validamycin. Reduce plant density. Avoid excessive nitrogen.",
+        "conditions": "Thrives in warm (28-32\u00b0C) and humid conditions; dense planting and high nitrogen levels increase severity."
+    },
+    "Soybean___healthy": {
+        "symptoms": "Leaves are trifoliate, dark green, and free of spots or discoloration.",
+        "remedy": "Maintain proper row spacing and weed management. Continue balanced fertilization. No treatment needed.",
+        "conditions": "N/A - Plant is thriving in current conditions."
+    },
+    "Squash___Powdery_mildew": {
+        "symptoms": "White powdery coating on upper leaf surfaces; leaves may yellow and dry out.",
+        "remedy": "Apply potassium bicarbonate or sulfur-based fungicides. Improve air circulation. Avoid wetting foliage.",
+        "conditions": "Favored by warm dry days (20-30\u00b0C) with low humidity; unlike most fungi, does not require leaf wetness to spread."
+    },
+    "Strawberry___healthy": {
+        "symptoms": "Leaves are bright green, firm, and free of lesions or discoloration.",
+        "remedy": "Maintain proper runner management and mulching. Continue balanced fertilization. No treatment needed.",
+        "conditions": "N/A - Plant is thriving in current conditions."
+    },
+    "Strawberry___Leaf_scorch": {
+        "symptoms": "Irregular dark purple spots on leaf surfaces; centers turn tan or gray; leaves appear scorched.",
+        "remedy": "Apply captan or myclobutanil fungicides. Remove infected leaves. Avoid overhead irrigation.",
+        "conditions": "Thrives in warm (20-30\u00b0C) humid conditions with frequent rainfall and overhead irrigation."
+    },
+    "Sugarcane - Healthy": {
+        "symptoms": "Stalks are firm and green with no cracks or discoloration; leaves are upright and vibrant.",
+        "remedy": "Maintain regular earthing up and balanced fertilization. No chemical intervention needed.",
+        "conditions": "N/A - Plant is thriving in current conditions."
+    },
+    "Sugarcane - Mosaic": {
+        "symptoms": "Alternating light and dark green mosaic pattern on young leaves; stunted plant growth.",
+        "remedy": "Use mosaic-resistant varieties. Remove and destroy infected setts. Control aphid vectors with insecticides.",
+        "conditions": "Virus spread by aphids in warm (25-35\u00b0C) dry conditions; more prevalent during dry seasons with high aphid populations."
+    },
+    "Sugarcane - Red Rot": {
+        "symptoms": "Dull red internal tissues with white spots; midrib shows red lesions.",
+        "remedy": "Use healthy seed setts. Ensure proper drainage. Remove and burn infected stalks.",
+        "conditions": "Triggered by waterlogging and high humidity (25-30\u00b0C)."
+    },
+    "Sugarcane - Rust": {
+        "symptoms": "Small elongated orange to reddish-brown pustules on leaf surfaces.",
+        "remedy": "Apply propiconazole or mancozeb. Use rust-resistant varieties. Monitor fields during humid seasons.",
+        "conditions": "Spreads in warm (25-30\u00b0C) humid conditions; windborne spores spread rapidly during wet seasons."
+    },
+    "Sugarcane - Yellow Leaf": {
+        "symptoms": "Yellowing of midrib on upper leaf surface; yellowing spreads to leaf blade in severe cases.",
+        "remedy": "Use virus-free planting material. Control aphid and mealybug vectors. Remove and destroy infected plants.",
+        "conditions": "Spread by aphid and mealybug vectors; more severe in warm (25-35\u00b0C) dry conditions with high pest pressure."
+    },
+    "Tomato___Bacterial_spot": {
+        "symptoms": "Small water-soaked spots on leaves and fruit turning brown with yellow halos; raised scabs on fruit.",
+        "remedy": "Apply copper-based bactericides. Use disease-free transplants. Avoid working among wet plants.",
+        "conditions": "Thrives in warm (24-30\u00b0C) and wet conditions; wind-driven rain and overhead irrigation promote spread."
+    },
+    "Tomato___Early_blight": {
+        "symptoms": "Dark concentric ring lesions (target-shaped) on older leaves; yellowing around lesions.",
+        "remedy": "Apply chlorothalonil or mancozeb. Remove infected lower leaves. Stake plants to improve airflow.",
+        "conditions": "Favored by warm (24-29\u00b0C) and humid conditions; alternating wet and dry periods accelerate lesion spread."
+    },
+    "Tomato___healthy": {
+        "symptoms": "Leaves are vibrant green, firm, and free from spots, wilting, or discoloration.",
+        "remedy": "Maintain consistent watering, staking, and calcium fertilization. No treatment needed.",
+        "conditions": "N/A - Plant is thriving in current conditions."
+    },
+    "Tomato___Late_blight": {
+        "symptoms": "Greasy pale green lesions on leaves rapidly turning brown; white mold on undersides; fruit rots.",
+        "remedy": "Apply metalaxyl or cymoxanil fungicides immediately. Remove infected plant parts. Avoid overhead irrigation.",
+        "conditions": "Thrives in cool (10-20\u00b0C) and very humid (>90%) conditions; spreads explosively during prolonged foggy or rainy weather."
+    },
+    "Tomato___Leaf_Mold": {
+        "symptoms": "Yellow patches on upper leaf surface; olive-green to gray mold on undersides.",
+        "remedy": "Apply mancozeb or chlorothalonil. Reduce humidity in greenhouses. Improve ventilation and plant spacing.",
+        "conditions": "Primarily a greenhouse disease; thrives in high humidity (>85%) and moderate temperatures (22-25\u00b0C)."
+    },
+    "Tomato___Septoria_leaf_spot": {
+        "symptoms": "Small circular spots with dark borders and light gray centers on lower leaves; tiny black dots inside spots.",
+        "remedy": "Apply chlorothalonil or copper fungicides. Remove infected lower leaves. Mulch to prevent soil splash.",
+        "conditions": "Favored by warm (20-25\u00b0C) and wet conditions; rain splash and overhead irrigation disperse spores rapidly."
+    },
+    "Tomato___Spider_mites Two-spotted_spider_mite": {
+        "symptoms": "Fine yellow stippling on leaves; webbing on undersides; leaves bronze and dry out.",
+        "remedy": "Apply miticides like abamectin or bifenazate. Increase humidity. Use predatory mites as biological control.",
+        "conditions": "Thrives in hot (28-38\u00b0C) and dry conditions with low humidity; populations explode rapidly during droughts."
+    },
+    "Tomato___Target_Spot": {
+        "symptoms": "Circular brown lesions with concentric rings on leaves, stems, and fruit.",
+        "remedy": "Apply azoxystrobin or chlorothalonil fungicides. Remove infected debris. Improve canopy airflow.",
+        "conditions": "Develops in warm (24-30\u00b0C) and humid conditions; poor ventilation in dense canopies accelerates spread."
+    },
+    "Tomato___Tomato_mosaic_virus": {
+        "symptoms": "Mosaic mottling of light and dark green on leaves; leaf distortion and stunting; reduced fruit set.",
+        "remedy": "Remove and destroy infected plants. Disinfect tools with bleach solution. Control insect vectors. Use resistant varieties.",
+        "conditions": "Mechanically transmitted through contact; spreads easily in any warm (20-30\u00b0C) growing condition during field operations."
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+        "symptoms": "Upward curling and yellowing of leaf margins; stunted plants with reduced fruit production.",
+        "remedy": "Control whitefly vectors with imidacloprid or reflective mulches. Use TYLCV-resistant varieties. Remove infected plants promptly.",
+        "conditions": "Spread by whitefly vectors thriving in hot (28-35\u00b0C) dry conditions; more severe during dry seasons."
+    },
+    "Wheat - Aphid": {
+        "symptoms": "Clusters of small insects on leaves and ears; yellowing, stunting, and sticky honeydew deposits.",
+        "remedy": "Apply imidacloprid or lambda-cyhalothrin. Encourage natural predators like ladybirds. Monitor fields during tillering stage.",
+        "conditions": "Populations peak in warm (20-28\u00b0C) dry conditions; mild winters increase overwintering aphid survival."
+    },
+    "Wheat - Black Rust": {
+        "symptoms": "Elongated, reddish-brown pustules on stems and leaf sheaths.",
+        "remedy": "Plant early to avoid peak rust season. Use resistant varieties like HD2967.",
+        "conditions": "Spreads rapidly in warm (20-30\u00b0C) and moist conditions."
+    },
+    "Wheat - Blast": {
+        "symptoms": "Bleached spikes with no grain fill; lesions on leaves and nodes; brown discoloration at node.",
+        "remedy": "Apply tebuconazole or trifloxystrobin. Use blast-resistant varieties. Avoid excess nitrogen and dense planting.",
+        "conditions": "Thrives in warm (25-35\u00b0C) and humid conditions; high rainfall during heading stage is critical for outbreak."
+    },
+    "Wheat - Brown Rust": {
+        "symptoms": "Small round orange-brown pustules scattered on upper leaf surfaces.",
+        "remedy": "Apply propiconazole or tebuconazole fungicides. Use resistant varieties. Scout fields at tillering stage.",
+        "conditions": "Favored by mild (15-22\u00b0C) and moist conditions; spreads through windborne spores over long distances."
+    },
+    "Wheat - Common Root Rot": {
+        "symptoms": "Brown discoloration of subcrown internode and roots; premature ripening and whiteheads.",
+        "remedy": "Use seed treatment with fungicides like carboxin. Rotate with non-cereal crops. Avoid waterlogged soils.",
+        "conditions": "Worsened by dry warm soils (20-28\u00b0C) at seeding time; drought stress increases seedling susceptibility."
+    },
+    "Wheat - Fusarium Head Blight": {
+        "symptoms": "Bleached spikelets with orange-pink mold at base; shriveled grain with pink discoloration.",
+        "remedy": "Apply tebuconazole or metconazole at flowering. Use resistant varieties. Avoid maize-wheat rotations.",
+        "conditions": "Critical infection window is at flowering in warm (25-30\u00b0C) and wet or humid (>90%) conditions."
+    },
+    "Wheat - Healthy": {
+        "symptoms": "Leaves are vibrant green with no visible spots or pests.",
+        "remedy": "Maintain current irrigation. No chemical intervention needed.",
+        "conditions": "N/A - Plant is thriving in current conditions."
+    },
+    "Wheat - Leaf Blight": {
+        "symptoms": "Tan to brown irregular lesions on leaves; lesions enlarge and coalesce causing leaf death.",
+        "remedy": "Apply mancozeb or propiconazole. Use disease-free certified seed. Avoid dense sowing.",
+        "conditions": "Favored by warm (25-35\u00b0C) and humid conditions; worsened by rain and overhead irrigation."
+    },
+    "Wheat - Mite": {
+        "symptoms": "Silvery white stippling and streaking on leaves; severe infestations cause leaf curling and drying.",
+        "remedy": "Apply sulfur-based acaricides. Avoid water stress which worsens mite outbreaks. Encourage natural predators.",
+        "conditions": "Thrives in hot (28-38\u00b0C) and dry conditions; drought-stressed crops are most vulnerable."
+    },
+    "Wheat - Powdery Mildew": {
+        "symptoms": "White powdery patches on upper leaf surfaces and stems; affected leaves turn yellow and die.",
+        "remedy": "Apply triadimefon or propiconazole fungicides. Use resistant varieties. Avoid high nitrogen and dense planting.",
+        "conditions": "Favored by cool to mild (15-22\u00b0C) temperatures with high humidity but no free water on leaves."
+    },
+    "Wheat - Septoria": {
+        "symptoms": "Pale brown irregular blotches with yellow margins on leaves; tiny black pycnidia visible in lesions.",
+        "remedy": "Apply azoxystrobin or propiconazole. Use certified clean seed. Destroy crop residue post-harvest.",
+        "conditions": "Thrives in cool (10-20\u00b0C) and wet conditions; rain splash moves spores up the canopy progressively."
+    },
+    "Wheat - Smut": {
+        "symptoms": "Grain heads replaced by black powdery masses of fungal spores; infected plants may be slightly taller.",
+        "remedy": "Treat seeds with carboxin or thiram before sowing. Use smut-resistant varieties. Remove infected heads before spore release.",
+        "conditions": "Seed-borne infection occurring at germination; cool (5-20\u00b0C) and moist soil conditions favor infection."
+    },
+    "Wheat - Stem Fly": {
+        "symptoms": "Dead central shoots (deadhearts) at tillering; larvae found inside stem at base.",
+        "remedy": "Apply chlorpyrifos or imidacloprid at tillering. Sow early to avoid peak fly activity. Remove and destroy affected tillers.",
+        "conditions": "Pest activity peaks in warm (20-30\u00b0C) conditions during early crop stages; late sowing increases vulnerability."
+    },
+    "Wheat - Tan Spot": {
+        "symptoms": "Tan to brown oval lesions with yellow halos; lesions may coalesce causing large blighted areas.",
+        "remedy": "Apply propiconazole or tebuconazole. Rotate with non-cereal crops. Incorporate or burn stubble to reduce inoculum.",
+        "conditions": "Thrives in warm (20-28\u00b0C) and wet conditions; stubble from previous crops is the primary inoculum source."
+    },
+    "Wheat - Yellow Rust": {
+        "symptoms": "Bright yellow pustules arranged in stripes along leaves; white to pale yellow in cool conditions.",
+        "remedy": "Apply propiconazole or tebuconazole at first sign. Use resistant varieties. Monitor during cool humid weather.",
+        "conditions": "Favored by cool (10-15\u00b0C) and moist conditions; most active in early spring with heavy dew or light rainfall."
+    }
+}

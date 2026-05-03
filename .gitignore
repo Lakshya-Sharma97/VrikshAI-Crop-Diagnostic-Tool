@@ -1,0 +1,7 @@
+dataset/
+venv/
+notebooks/
+saved_models/
+__pycache__/
+*.zip
+*.swp
